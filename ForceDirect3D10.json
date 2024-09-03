@@ -1,0 +1,6 @@
+{
+  "FFlagDebugGraphicsDisableDirect3D11": false,
+  "FFlagDebugGraphicsPreferD3D11": false,
+  "FFlagDebugGraphicsPreferD3D11FL10": true,
+  "FFlagGraphicsEnableD3D10Compute": true
+}

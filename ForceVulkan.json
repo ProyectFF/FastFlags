@@ -1,0 +1,6 @@
+{
+  "FFlagDebugGraphicsDisableVulkan": false,
+  "FFlagDebugGraphicsDisableVulkan11": false,
+  "FFlagDebugGraphicsPreferVulkan": true,
+  "FFlagRenderVulkanFixMinimizeWindow": true
+}
